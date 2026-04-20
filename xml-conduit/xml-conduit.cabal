@@ -10,7 +10,7 @@ synopsis:        Pure-Haskell utilities for dealing with XML with the conduit pa
 description:     Hackage documentation generation is not reliable. For up to date documentation, please see: <http://www.stackage.org/package/xml-conduit>.
 category:        XML, Conduit
 stability:       Stable
-build-type:      Custom
+build-type:      Simple
 homepage:        http://github.com/snoyberg/xml
 extra-source-files: README.md
                     ChangeLog.md
